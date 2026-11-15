@@ -10,8 +10,8 @@
 ---
 
 ## 🌐 Live Demo & Repository
-- **Live Application:** [https://offerlens.vercel.app](https://offerproject.vercel.app/) *(or your deployed Vercel deployment URL)*
-- **GitHub Repository:** [https://github.com/your-username/offerlens](https://github.com/pranavreddy17/offerproject)
+- **Live Application:** [https://offerproject.vercel.app/](https://offerproject.vercel.app/) *(or your deployed Vercel deployment URL)*
+- **GitHub Repository:** [https://github.com/pranavreddy17/offerproject](https://github.com/pranavreddy17/offerproject)
 
 ---
 
