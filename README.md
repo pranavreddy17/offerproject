@@ -2,10 +2,7 @@
 
 > A deterministic, privacy-first web application that empowers final-year engineering students to analyze campus placement offer letters, flag predatory clauses, estimate real in-hand pay, and compare competing offers side by side before signing.
 
-[![Build & Test](https://img.shields.io/badge/Tests-127%2F127%20Passing-success)](https://github.com)
-[![Coverage](https://img.shields.io/badge/Engine%20Coverage-98.76%25-brightgreen)](https://github.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Zero Backend](https://img.shields.io/badge/Architecture-100%25%20Client--Side-blueviolet)](https://github.com)
+ 
 
 ---
 
